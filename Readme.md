@@ -16,6 +16,14 @@ A aplicação foi testada com as ferramentas e versões abaixo.
 * [Face Recognition](https://github.com/ageitgey/face_recognition)
 
 ## Instalação
+
+O primeiro passo é clonar o repositório:
+
+```bash
+git clone https://github.com/if1007-projeto/face-recognition-service.git
+cd face-recognition-service
+```
+
 Para evitar que as dependências sejam desnecessariamente instaladas globalmente, é recomendável criar uma ambiente virtual. Para isto execute os seguintes comandos:
 
 ```bash
