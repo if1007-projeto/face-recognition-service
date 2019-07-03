@@ -7,7 +7,7 @@ services:
     environment:
       FACE_PATH: known_faces
       KAFKA_URL: 'kafka:29092'
-      KAFKA_TOPIC: 'example-stream'
+      KAFKA_TOPIC: 'faces'
     networks: 
       - default
       - server_network
